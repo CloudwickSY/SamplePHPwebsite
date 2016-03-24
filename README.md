@@ -39,7 +39,7 @@ CREATE DATABASE Cloudwick;
 # Create table
 CREATE TABLE People
 (
-    PersonID int NOT NULL,
+    PersonID int NOT NULL AUTO_INCREMENT,
     LastName varchar(255),
     FirstName varchar(255),
     Address varchar(255),
