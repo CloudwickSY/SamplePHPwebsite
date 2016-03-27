@@ -28,10 +28,10 @@
 
 
 # Start working in mysql
-mysql -u root -p
+	mysql -u root -p
 	
 # Create DB
-CREATE DATABASE Cloudwick;
+	CREATE DATABASE Cloudwick;
 
 # Select table
 	use Cloudwick;
